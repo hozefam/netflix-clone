@@ -1,3 +1,5 @@
 import Jumbotron from './jumbotron';
+import Footer from './footer';
+import Accordion from './accordion';
 
-export { Jumbotron as default };
+export { Jumbotron, Footer, Accordion };
